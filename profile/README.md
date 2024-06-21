@@ -1,12 +1,7 @@
-## Hi there 👋
+# BeyondMP
+Official BeyondMP GitHub Org
 
-<!--
+[![Discord Banner 2](https://discordapp.com/api/guilds/1097271368896217108/widget.png?style=banner2)](https://discord.gg/beyondmp)
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Whats gonna be here?
+We dont have any plans on doing anything except for hosting our [ItemShop](https://github.com/BeyondMP/ItemShop)
