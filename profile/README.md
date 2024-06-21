@@ -5,3 +5,5 @@ Official BeyondMP GitHub Org
 
 ## Whats gonna be here?
 We dont have any plans on doing anything except for hosting our [ItemShop](https://github.com/BeyondMP/ItemShop)
+
+We **might** open source some stuff tho 👀
